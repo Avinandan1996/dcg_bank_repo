@@ -1,3 +1,3 @@
-Public class Demo{
+class Animal{
 
 }
