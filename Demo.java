@@ -1,3 +1,3 @@
-Public static void main{
+Public class Demo{
 
 }
