@@ -1,4 +1,4 @@
 class Animal{
      string name;
-     int num
+     int num;
 }
