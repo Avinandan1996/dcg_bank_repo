@@ -3,5 +3,6 @@ class Animal{
       int id;
      int num;
      String color;
+     int age;
 
 }
